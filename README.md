@@ -1,2 +1,2 @@
 # amay
-learning and share code
+learn and share code
